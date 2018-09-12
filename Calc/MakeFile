@@ -1,0 +1,10 @@
+all: calc format
+
+calc: calc.c
+    gcc -Wall -Werror -fsanitize=address calc.c -o calc
+
+format: format.c
+    gcc	-Wall -Werror -fsanitize=address format.c -o format
+
+clean:
+    rm -rf calc format

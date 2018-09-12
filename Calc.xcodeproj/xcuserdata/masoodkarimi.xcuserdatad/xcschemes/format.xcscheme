@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0313FE3220F6B7B6007346B2"
-               BuildableName = "Calc"
-               BlueprintName = "Calc"
+               BlueprintIdentifier = "030DE97F20F81B9B003A32A8"
+               BuildableName = "format"
+               BlueprintName = "format"
                ReferencedContainer = "container:Calc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0313FE3220F6B7B6007346B2"
-            BuildableName = "Calc"
-            BlueprintName = "Calc"
+            BlueprintIdentifier = "030DE97F20F81B9B003A32A8"
+            BuildableName = "format"
+            BlueprintName = "format"
             ReferencedContainer = "container:Calc.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,15 +55,15 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0313FE3220F6B7B6007346B2"
-            BuildableName = "Calc"
-            BlueprintName = "Calc"
+            BlueprintIdentifier = "030DE97F20F81B9B003A32A8"
+            BuildableName = "format"
+            BlueprintName = "format"
             ReferencedContainer = "container:Calc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "* -d2 a310 d"
+            argument = " 01000001010000100100001110000100 int"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
@@ -80,9 +80,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0313FE3220F6B7B6007346B2"
-            BuildableName = "Calc"
-            BlueprintName = "Calc"
+            BlueprintIdentifier = "030DE97F20F81B9B003A32A8"
+            BuildableName = "format"
+            BlueprintName = "format"
             ReferencedContainer = "container:Calc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
